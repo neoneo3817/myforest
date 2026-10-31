@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "나만의 숲",
+  "short_name": "나만의 숲",
+  "description": "카드 목표를 달성하며 가꾸는 우주 숲",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090913",
+  "theme_color": "#0b0b18",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
